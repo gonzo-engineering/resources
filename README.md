@@ -1,6 +1,6 @@
 # Resources for journalists
 
-Part of the [Gonzo Engineering] project, this is an ever-evolving list of anything and everything that might be useful to journalists, engineers, and other news weirdos. The bias is towards free and open source things though there are exceptions. The list breaks loosely into three sections: [**Tools**](#tools), [**Sector**](#sector), and [**Data**](#data).
+Part of the [Gonzo Engineering](https://gonzo.engineering) project, this is an ever-evolving list of anything and everything that might be useful to journalists, engineers, and other news weirdos. The bias is towards free and open source things though there are exceptions. The list breaks loosely into three sections: [**Tools**](#tools), [**Sector**](#sector), and [**Data**](#data).
 
 By all means suggest additions and improvements. There are plenty to be made.
 
