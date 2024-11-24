@@ -13,8 +13,7 @@ By no means an exhaustive list. The [Online Open Source Investigation Toolkit](h
 ### Office suites
 
 - [LibreOffice](https://www.libreoffice.org/)
-- [Microsoft Office](https://www.office.com/)
-- [Google Docs Editors](https://workspace.google.com/intl/en_uk/products/docs/)
+- [Google Workspace](https://workspace.google.com/intl/en_uk/products/docs/)
 
 ### Media editing
 
@@ -72,6 +71,7 @@ Journalism is an ecosystem, one that benefits from looking inward as well as out
 
 ### Articles
 
+- [Apology for Printers](https://founders.archives.gov/documents/Franklin/01-01-02-0061) by Benjamin Franklin
 - [Keepin' It Real: Tips & Strategies for Evaluating Fake News](https://libguides.lmu.edu/c.php?g=595781&p=4121899)
 - [OSHIT: Seven Deadly Sins of Bad Open Source Research](https://www.bellingcat.com/resources/2024/04/25/oshit-seven-deadly-sins-of-bad-open-source-research)<span style="text-decoration:underline;"> </span>
 - [Visualizing the Past (World War II)](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/?ref=thebrowser.com)
