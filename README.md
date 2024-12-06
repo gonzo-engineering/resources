@@ -41,6 +41,7 @@ By no means an exhaustive list. The [Online Open Source Investigation Toolkit](h
 - [Flourish](https://flourish.studio/)
 - [Datawrapper](https://www.datawrapper.de/)
 - [VizSweet](https://vizsweet.com/)
+- [Visprex](https://www.visprex.com/), visualise and explore data in seconds
 
 ### Fair use images
 
@@ -75,6 +76,7 @@ Journalism is an ecosystem, one that benefits from looking inward as well as out
 - [Keepin' It Real: Tips & Strategies for Evaluating Fake News](https://libguides.lmu.edu/c.php?g=595781&p=4121899)
 - [OSHIT: Seven Deadly Sins of Bad Open Source Research](https://www.bellingcat.com/resources/2024/04/25/oshit-seven-deadly-sins-of-bad-open-source-research)<span style="text-decoration:underline;"> </span>
 - [Visualizing the Past (World War II)](https://nathangoldwag.wordpress.com/2024/10/26/visualizing-the-past-world-war-ii/?ref=thebrowser.com)
+- [Journal of Maps: Guide to common errors in map production](https://files.taylorandfrancis.com/TJOM-suppmaterial-quick-guide.pdf)
 
 ### Books
 
