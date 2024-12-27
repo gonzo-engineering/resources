@@ -111,6 +111,7 @@ Journalism is an ecosystem, one that benefits from looking inward as well as out
 
 - _[The Truth](<https://en.wikipedia.org/wiki/The_Truth_(novel)>)_ by Terry Pratchett
 - _[Scoop](<https://en.wikipedia.org/wiki/Scoop_(novel)>)_ by Evelyn Waugh
+- _[A Crooked Sixpence](https://www.amazon.com/Crooked-Sixpence-Murray-Sayle/dp/0955823846)_ by Murray Sayle
 
 ### Videos
 
