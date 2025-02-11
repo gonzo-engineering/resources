@@ -30,6 +30,10 @@ By no means an exhaustive list. The [Online Open Source Investigation Toolkit](h
 - [Auto Archiver](https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/) by Bellingcat
 - [DocumentCloud](https://www.muckrock.com/tags/documentcloud/) by MuckRock
 
+### OSINT
+
+- [Beginner’s Guide to Geoguessr](https://www.plonkit.net/beginners-guide)
+
 ### Data explorers and scrapers
 
 - [Violation Tracker UK](https://violationtrackeruk.goodjobsfirst.org/) and [Violation Tracker Global](https://violationtrackerglobal.goodjobsfirst.org/) by Good Jobs First
