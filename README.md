@@ -67,6 +67,7 @@ Journalism is an ecosystem, one that benefits from looking inward as well as out
 - [Centre for Investigative Journalism](https://tcij.org/) (CIJ)
 - [Public Interest News Foundation](https://www.publicinterestnews.org.uk/) (PINF)
 - [Independent Community News Network](https://www.communityjournalism.co.uk/) (ICNN)
+- [Reuters Institute for the Study of Journalism](https://reutersinstitute.politics.ox.ac.uk/)
 
 ### Unions
 
