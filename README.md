@@ -39,6 +39,7 @@ By no means an exhaustive list. The [Online Open Source Investigation Toolkit](h
 - [Violation Tracker UK](https://violationtrackeruk.goodjobsfirst.org/) and [Violation Tracker Global](https://violationtrackerglobal.goodjobsfirst.org/) by Good Jobs First
 - [Offshore Leaks Database](https://offshoreleaks.icij.org/) by ICIJ
 - [Open Council Network](https://opencouncil.network/)
+- [AI Scraper](https://huggingface.co/spaces/JournalistsonHF/ai-scraper) by Journalists on Hugging Face
 
 ### Data visualisation
 
