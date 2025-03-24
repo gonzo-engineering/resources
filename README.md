@@ -33,6 +33,8 @@ By no means an exhaustive list. The [Online Open Source Investigation Toolkit](h
 ### OSINT
 
 - [Beginner’s Guide to Geoguessr](https://www.plonkit.net/beginners-guide)
+- [Tracking mining with multispectral satellite imagery](https://soup.agnescameron.info/2025/01/10/satellite.html) by Agnes Cameron
+- [Seeing More With Satellite Imagery Using Band Combinations, Ratios and Indices](https://www.bellingcat.com/resources/2025/01/10/satellite-imagery-bands-guide/)
 
 ### Data explorers and scrapers
 
