@@ -113,6 +113,7 @@ Journalism is an ecosystem, one that benefits from looking inward as well as out
 - _[Hack Attack](https://www.nickdavies.net/books/hack-attack-2014/)_ by Nick Davies
 - _[Flat Earth News](https://www.nickdavies.net/books/flat-earth-news-2008/)_ by Nick Davies
 - _[My Paper Chase](https://www.hachette.co.uk/titles/harold-evans-4/my-paper-chase/9780748114719/)_ by Harold Evans
+- _[Good Times, Bad Times](https://archive.org/details/goodtimesbadtime0000evan_a9t4)_ by Harold Evans
 - _[Breaking News](https://www.londonreviewbookshop.co.uk/stock/breaking-news-the-remaking-of-journalism-and-why-it-matters-now-alan-rusbridger)_ by Alan Rusbridger
 - _[The Great Reporters](https://www.plutobooks.com/9780745322964/the-great-reporters/)_ by David Randall
 - _[The Story](https://thaneandprose.com/shop-the-bookstore/ols/products/the-story)_ by Mario Garcia
